@@ -1,6 +1,6 @@
 export class LoginUsuario {
     nombreUsuario: String;
-    password: string;
+    password: String;
 
     constructor(nombreUsuario: String, password: String){
         this.nombreUsuario = nombreUsuario;
