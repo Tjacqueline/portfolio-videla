@@ -14,10 +14,12 @@
 
 img{
     width:50px;
+    margin: 0.2em;
 }
 
 .btn{
     border-width: medium;
+    margin-left:0.2em;
 }
 
 /*vista celular*/
@@ -30,8 +32,11 @@ img{
     flex-direction: column;
     align-items: center;
 }
-
 .redes img{
-    margin: 0.2em;
+    margin: 0.5em;
+}
+.btn{
+    border-width: medium;
+    margin:2em;
 }
 }
