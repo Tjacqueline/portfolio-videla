@@ -1,9 +1,10 @@
 
 div{
-    background-color:#d3ab3c;
+    background-color:#141216;
     text-align: center;
-    color:#583d00;
+    color:white;
     padding:2% 2% 2% 2%;
+    align-items: center;
   }
 
 /*foto de perfil y nombre*/
@@ -12,7 +13,7 @@ div{
     padding:2% 3% 2% 3%;
   }
 
-  #fotodeperfil{position:relative;width: 100%;box-shadow: 3px 3px 3px #583d00;border-radius:100%;left: 5%;}
+  #fotodeperfil{position:relative;width: 250%;box-shadow: 5px 5px 5px #292929;border-radius:100%;left: 5%;}
   #nombre{font-weight: bold;margin-top: 19%;}
 
 }
@@ -21,7 +22,7 @@ div{
   div{
     padding:5% 5% 5% 5%;
   }
-  #fotodeperfil{position: relative;width: 45%;border-radius: 100%;box-shadow: 0.2px 0.2px 7px #583d00;}
+  #fotodeperfil{position: relative;width: 45%;border-radius: 100%;box-shadow: 0.2px 0.2px 7px #292929;}
   #nombre{font-weight: bold;}
 }
 
