@@ -1,5 +1,10 @@
 section, div{
-    background-color:#141216;
     color:rgb(214, 212, 216);
     max-width: 100%;
 }
+
+#iniciarsesion{transition: 0.5s;}
+#iniciarsesion:hover {transform:scale(1.1);transition: 0.5s;}
+
+#notienescuenta{transition: 0.5s;}
+#notienescuenta:hover {transform:scale(1.1);transition: 0.5s;}

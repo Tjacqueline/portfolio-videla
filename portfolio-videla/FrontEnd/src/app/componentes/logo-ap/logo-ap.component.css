@@ -8,6 +8,33 @@
     margin-right:0.5em;
 }
 
+#linkedin{
+    transition: 0.5s;
+}
+#linkedin:hover {
+    filter: invert(87%);
+    transform:scale(1.25);
+    transition: 0.5s;
+}
+
+#github{
+    transition: 0.5s;
+}
+#github:hover {
+    filter: invert(87%);
+    transform:scale(1.25);
+    transition: 0.5s;
+}
+
+#facebook{
+    transition: 0.5s;
+}
+#facebook:hover {
+    filter: invert(87%);
+    transform:scale(1.25);
+    transition: 0.5s;
+}
+
 #logoAP{
     width:150px;
 }
@@ -22,6 +49,14 @@ img{
     margin-left:0.2em;
 }
 
+.btn{
+    transition: 0.5s;
+}
+.btn:hover {
+    filter: invert(87%);
+    transform:scale(1.1);
+    transition: 0.5s;
+}
 /*vista celular*/
 @media (max-width: 575px){
 .container{

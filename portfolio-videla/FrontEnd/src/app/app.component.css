@@ -1,0 +1,6 @@
+#particles-js {
+    height: 100vh;         /*height y width para que ocupe toda la pantalla*/
+    width: 100%;        
+    position: fixed;     /*para que el fondo quede fijo*/
+     z-index: -1;     /*se pone en-1 asi el fondo queda por detras*/
+}
