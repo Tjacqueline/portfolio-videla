@@ -77,3 +77,7 @@ a:visited {color: rgb(160, 255, 147);}
 a:hover {color: rgb(248, 129, 129);}
 
 a:active{color: rgb(46, 46, 46);}
+
+.contenedor{
+    width:auto;
+}
